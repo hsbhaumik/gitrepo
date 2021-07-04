@@ -1,1 +1,2 @@
 Good evening!
+This is the master sentence to test merging.
