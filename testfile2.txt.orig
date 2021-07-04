@@ -1,7 +1,7 @@
 Good evening!
-<<<<<<< HEAD
-Test line in featureA.
-=======
 This is the master sentence to test merging.
+<<<<<<< Updated upstream
 Test line in file 2.
->>>>>>> refs/remotes/origin/master
+=======
+Test life in file 2.
+>>>>>>> Stashed changes
