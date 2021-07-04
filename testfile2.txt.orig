@@ -1,3 +1,7 @@
 Good evening!
 This is the master sentence to test merging.
+<<<<<<< Updated upstream
+Test line in file 2.
+=======
 Test life in file 2.
+>>>>>>> Stashed changes
