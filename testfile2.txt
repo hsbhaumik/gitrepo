@@ -1,2 +1,3 @@
 Good evening!
 This is the master sentence to test merging.
+Test line in file 2.
